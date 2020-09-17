@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+
+    width: 700px;
+    margin: auto;
+    border-top: 20px solid  #2D2D34;
+    border-bottom: 20px solid #2D2D34;
+
+    background-color: #2D2D34;
+
+    color: white;
+
+    font-family: Calibri, sans-serif, serif;
+}
